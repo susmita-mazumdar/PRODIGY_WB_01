@@ -1,0 +1,31 @@
+NAME: SUSMITA MAZUMDAR
+TASK 1: RESPONSIVE LANDING PAGE
+DOMAIN: WEB DEVELOPMENT 
+BATCH: OCTOBER
+==============================================================================================================================================================================
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <script src="script.js" defer></script>
+    <title>Responsive Landing Page</title>
+</head>
+<body>
+    <div class="nav">
+        <ul>
+            <li><a href="#section1">Section 1</a></li>
+            <li><a href="#section2">Section 2</a></li>
+            <li><a href="#section3">Section 3</a></li>
+        </ul>
+    </div>
+    <div class="container">
+        <div class="section" id="section1">Blue Gradient Square</div>
+        <div class="section" id="section2">Circle with Gradient</div>
+        <div class="section" id="section3">Blue Gradient Square</div>
+    </div>
+</body>
+</html>
